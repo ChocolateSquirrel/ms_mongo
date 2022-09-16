@@ -1,0 +1,260 @@
+[
+  {
+    "_id" : "8abd3c63-f2ff-4ee1-a347-769c6489252e",
+    "patientId" : "1",
+  "recommendations": "Patient states that they are 'feeling terrific' Weight at or below recommended level"
+
+  }
+,
+  {
+    "_id" : "142990db-30f6-4681-8900-81889451651a",
+    "patientId" : "2",
+    "recommendations": "Patient states that they are feeling a great deal of stress at work Patient also complains that their hearing seems Abnormal as of late"
+  }
+,
+  {
+    "_id" : "fc10ec04-3529-11ed-a261-0242ac120002",
+    "patientId" : "2",
+    "recommendations": "Patient states that they have had a Reaction to medication within last 3 months Patient also complains that their hearing continues to be problematic"
+
+  }
+,
+  {
+    "_id" : "02f3f700-352a-11ed-a261-0242ac120002",
+    "patientId" : "3",
+    "recommendations": "Patient states that they are short term Smoker"
+
+  }
+,
+  {
+    "_id" : "0a822d70-352a-11ed-a261-0242ac120002",
+    "patientId" : "3",
+    "recommendations": "Patient states that they quit within last year Patient also complains that of Abnormal breathing spells Lab reports Cholesterol LDL high"
+
+  }
+,
+  {
+    "_id" : "18b1ed2c-352a-11ed-a261-0242ac120002",
+    "patientId" : "4",
+    "recommendations": "Patient states that walking up stairs has become difficult Patient also complains that they are having shortness of breath Lab results indicate Antibodies present elevated Reaction to medication"
+
+  }
+,
+  {
+    "_id" : "1f6dc546-352a-11ed-a261-0242ac120002",
+    "patientId" : "4",
+    "recommendations": "Patient states that they are experiencing back pain when seated for a long time"
+
+  }
+,
+  {
+    "_id" : "25909386-352a-11ed-a261-0242ac120002",
+    "patientId" : "4",
+    "recommendations": "Patient states that they are a short term Smoker Hemoglobin A1C above recommended level"
+
+  },
+  {
+    "_id" : "2ab8bfc8-352a-11ed-a261-0242ac120002",
+    "patientId" : "4",
+    "recommendations": "Patient states that Body Height, Body Weight, Cholesterol, Dizziness and Reaction"
+
+  },
+  {
+    "_id" : "30dba0d2-352a-11ed-a261-0242ac120002",
+    "patientId" : "5",
+    "recommendations": "Le patient déclare qu'il « se sent très bien »\nPoids égal ou inférieur au poids recommandé"
+
+  }
+,
+  {
+    "_id" : "3a987942-352a-11ed-a261-0242ac120002",
+    "patientId" : "5",
+    "recommendations": "Le patient déclare qu'il se sent fatigué pendant la journée\nIl se plaint également de douleurs musculaires\nTests de laboratoire indiquant une microalbumine élevée"
+
+  }
+,
+  {
+    "_id" : "3fc70956-352a-11ed-a261-0242ac120002",
+    "patientId" : "5",
+    "recommendations": "Le patient déclare qu'il ne se sent pas si fatigué que ça\nFumeur, il a arrêté dans les 12 mois précédents\nTests de laboratoire indiquant que les anticorps sont élevés"
+
+  }
+,
+  {
+    "_id" : "43e9ff98-352a-11ed-a261-0242ac120002",
+    "patientId" : "6",
+    "recommendations": "Le patient déclare qu'il ressent beaucoup de stress au travail\nIl se plaint également que son audition est anormale dernièrement"
+
+  }
+,
+  {
+    "_id" : "48ae496c-352a-11ed-a261-0242ac120002",
+    "patientId" : "6",
+    "recommendations": "Le patient déclare avoir fait une réaction aux médicaments au cours des 3 derniers mois\nIl remarque également que son audition continue d'être anormale"
+
+  }
+,
+  {
+    "_id" : "4d222932-352a-11ed-a261-0242ac120002",
+    "patientId" : "6",
+    "recommendations": "Tests de laboratoire indiquant une microalbumine élevée"
+
+  }
+,
+  {
+    "_id" : "510a540c-352a-11ed-a261-0242ac120002",
+    "patientId" : "6",
+    "recommendations": "Le patient déclare que tout semble aller bien\nLe laboratoire rapporte que l'hémoglobine A1C dépasse le niveau recommandé\nLe patient déclare qu’il fume depuis longtemps"
+
+  }
+,
+  {
+    "_id" : "56ee8d3e-352a-11ed-a261-0242ac120002",
+    "patientId" : "7",
+    "recommendations": "Le patient déclare qu'il fume depuis peu"
+
+  }
+,
+  {
+    "_id" : "5bc1239e-352a-11ed-a261-0242ac120002",
+    "patientId" : "7",
+    "recommendations": "Tests de laboratoire indiquant une microalbumine élevée"
+
+  }
+,
+  {
+    "_id" : "60c36208-352a-11ed-a261-0242ac120002",
+    "patientId" : "7",
+    "recommendations": "Le patient déclare qu'il est fumeur et qu'il a cessé de fumer l'année dernière\nIl se plaint également de crises d’apnée respiratoire anormales\nTests de laboratoire indiquant un taux de cholestérol LDL élevé"
+
+  }
+,
+  {
+    "_id" : "64c2c1a0-352a-11ed-a261-0242ac120002",
+    "patientId" : "7",
+    "recommendations": "Tests de laboratoire indiquant un taux de cholestérol LDL élevé"
+
+  }
+,
+  {
+    "_id" : "6a529fc8-352a-11ed-a261-0242ac120002",
+    "patientId" : "8",
+    "recommendations": "Le patient déclare qu'il lui est devenu difficile de monter les escaliers\nIl se plaint également d’être essoufflé\nTests de laboratoire indiquant que les anticorps sont élevés\nRéaction aux médicaments"
+
+  }
+,
+  {
+    "_id" : "6f721006-352a-11ed-a261-0242ac120002",
+    "patientId" : "8",
+    "recommendations": "Le patient déclare qu'il a mal au dos lorsqu'il reste assis pendant longtemps"
+
+  }
+,
+  {
+    "_id" : "73b8dcc6-352a-11ed-a261-0242ac120002",
+    "patientId" : "8",
+    "recommendations": "Le patient déclare avoir commencé à fumer depuis peu\nHémoglobine A1C supérieure au niveau recommandé"
+
+  }
+,
+  {
+    "_id" : "781e7b68-352a-11ed-a261-0242ac120002",
+    "patientId" : "9",
+    "recommendations": "Le patient déclare avoir des douleurs au cou occasionnellement\nLe patient remarque également que certains aliments ont un goût différent\nRéaction apparente aux médicaments\nPoids corporel supérieur au poids recommandé"
+
+  }
+,
+  {
+    "_id" : "7dacd4d0-352a-11ed-a261-0242ac120002",
+    "patientId" : "9",
+    "recommendations": "Le patient déclare avoir eu plusieurs épisodes de vertige depuis la dernière visite.\nTaille incluse dans la fourchette concernée"
+
+  }
+,
+  {
+    "_id" : "80f62204-352a-11ed-a261-0242ac120002",
+    "patientId" : "9",
+    "recommendations": "Le patient déclare qu'il souffre encore de douleurs cervicales occasionnelles\nTests de laboratoire indiquant une microalbumine élevée\nFumeur, il a arrêté dans les 12 mois précédents"
+
+  },
+  {
+    "_id" : "85188f66-352a-11ed-a261-0242ac120002",
+    "patientId" : "9",
+    "recommendations": "Le patient déclare avoir eu plusieurs épisodes de vertige depuis la dernière visite.\nTests de laboratoire indiquant que les anticorps sont élevés"
+
+  },
+  {
+    "_id" : "88622178-352a-11ed-a261-0242ac120002",
+    "patientId" : "10",
+    "recommendations": "Le patient déclare qu'il se sent bien\nPoids corporel supérieur au poids recommandé"
+
+  },
+  {
+    "_id" : "8e2ce39a-352a-11ed-a261-0242ac120002",
+    "patientId" : "10",
+    "recommendations": "Le patient déclare qu'il se sent bien"
+
+  }
+,
+  {
+    "_id" : "9195f3dc-352a-11ed-a261-0242ac120002",
+    "patientId" : "11",
+    "recommendations": "Le patient déclare qu'il se réveille souvent avec une raideur articulaire\nIl se plaint également de difficultés pour s’endormir\nPoids corporel supérieur au poids recommandé\nTests de laboratoire indiquant un taux de cholestérol LDL élevé"
+
+  }
+,
+  {
+    "_id" : "957f0768-352a-11ed-a261-0242ac120002",
+    "patientId" : "12",
+    "recommendations": "Les tests de laboratoire indiquent que les anticorps sont élevés\nHémoglobine A1C supérieure au niveau recommandé"
+
+  },
+  {
+    "_id" : "984f16d6-352a-11ed-a261-0242ac120002",
+    "patientId" : "13",
+    "recommendations": "Le patient déclare avoir de la difficulté à se concentrer sur ses devoirs scolaires\nHémoglobine A1C supérieure au niveau recommandé"
+
+  }
+,
+  {
+    "_id" : "9d79c804-352a-11ed-a261-0242ac120002",
+    "patientId" : "13",
+    "recommendations": "Le patient déclare qu'il s’impatiente facilement en cas d’attente prolongée\nIl signale également que les produits du distributeur automatique ne sont pas bons\nTests de laboratoire signalant des taux anormaux de cellules sanguines"
+
+  }
+,
+  {
+    "_id" : "a0d3dce2-352a-11ed-a261-0242ac120002",
+    "patientId" : "13",
+    "recommendations": "Le patient signale qu'il est facilement irrité par des broutilles\nIl déclare également que l'aspirateur des voisins fait trop de bruit\nTests de laboratoire indiquant que les anticorps sont élevés"
+
+  }
+,
+  {
+    "_id" : "a4b10344-352a-11ed-a261-0242ac120002",
+    "patientId" : "14",
+    "recommendations": "Le patient déclare qu'il n'a aucun problème"
+
+  }
+,
+  {
+    "_id" : "a796ed9e-352a-11ed-a261-0242ac120002",
+    "patientId" : "14",
+    "recommendations": "Le patient déclare qu'il n'a aucun problème\nTaille incluse dans la fourchette concernée\nHémoglobine A1C supérieure au niveau recommandé"
+
+  }
+,
+  {
+    "_id" : "ac07b9ee-352a-11ed-a261-0242ac120002",
+    "patientId" : "14",
+    "recommendations": "Le patient déclare qu'il n'a aucun problème\nPoids corporel supérieur au poids recommandé\nLe patient a signalé plusieurs épisodes de vertige depuis sa dernière visite"
+
+  }
+,
+  {
+    "_id" : "b10c45c2-352a-11ed-a261-0242ac120002",
+    "patientId" : "14",
+    "recommendations": "Le patient déclare qu'il n'a aucun problème\nTests de laboratoire indiquant une microalbumine élevée"
+
+  }
+]
